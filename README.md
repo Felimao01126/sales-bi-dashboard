@@ -12,7 +12,7 @@ Projeto de BI desenvolvido para a matéria Projeto de Software.
 - Análise de faturamento por produto
 - Gráfico de faturamento por produto
 
-##AC3
+## AC3
 - Página de análise de vendas
 - Indicador de quantidade total vendida
 - Gráfico de quantidade vendida por produto
